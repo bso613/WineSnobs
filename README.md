@@ -1,11 +1,11 @@
-# project-1
+# CSUBootcamp Project 1
 Data Visualization bootcamp project one. Working to find a project question, a dataset to answer this question, clean it and perform analysis and visualization.
 
 # Title: 
 Wine Snobs
 # Members: 
 Serena + Ben
-# Description/OutlineP: 
+# Description: 
 Looking to discover correlations between wine varietals, critic scores, region, and wine critic
 
 # Questions:
