@@ -13,7 +13,8 @@ Looking to discover correlations between wine varietals, critic scores, region, 
 - Examine Switzerland - identify outliers? *Completed*
 - create an average $/PTS for each country
 2. Which country has the highest amount of wines reviewed
-3. Which wine critic gives the highest average score
+3. Which wine critic gives the highest average score 
+- which critic has mos expensive avg rated wine and who has least
 4. Is the a correlation between volume of reviews and average score
 5. Which wine varietal has the highest average score
 6. Which critic has the highest amount of reviews
