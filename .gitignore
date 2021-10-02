@@ -2,6 +2,7 @@
 #API key
 config.py
 api_keys.py
+.DS_Store
 
 
 # Byte-compiled / optimized / DLL files
