@@ -25,6 +25,7 @@ after actviities:
 - save to png
 # Datasets to be used: 
 - https://www.kaggle.com/zynicide/wine-reviews/version/4
-- gmaps.API
+- gmaps(geocoding).API
+- openweathermap.API
 
 
