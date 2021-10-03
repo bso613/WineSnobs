@@ -13,16 +13,17 @@ Looking to discover correlations between wine varietals, critic scores, region, 
 - Examine Switzerland - identify outliers? *Completed*
 - create an average $/PTS for each country *Completed*
 2. Which country has the highest amount of wines reviewed *Completed*
-3. Which wine critic gives the highest average score  *Completed*
-- which critic has mos expensive avg rated wine and who has least *Completed*
-4. Is the a correlation between average price and points across critics, country, province, grape type - Serena-
+3. Comparing average score/price for each province values? -Ben *Completed*
+4. Which top25 wine varietal has the highest average score/price -Ben *Completed*
 - find top25 wine varietals *Completed*
-5. Which top25 wine varietal has the highest average score/price -Ben *Completed*
-6. Which critic/country has the highest amount of reviews *Completed*
+5. Which wine critic gives the highest average score  *Completed*
+- which critic has mos expensive avg rated wine and who has least *Completed*
+6. Is the a correlation between average price and points across critics, country, province, grape type - Serena-
 
 
-9. Comparing average score/price for each province values? -Ben *Completed*
-10. Bonus: x-reference against climate data -Serena
+
+
+7. Bonus: x-reference against climate data -Serena *Completed*
 
 after actviities:
 - clean up charts
