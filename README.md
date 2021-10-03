@@ -18,12 +18,7 @@ Looking to discover correlations between wine varietals, critic scores, region, 
 - find top25 wine varietals *Completed*
 5. Which wine critic gives the highest average score  *Completed*
 - which critic has mos expensive avg rated wine and who has least *Completed*
-6. Is the a correlation between average price and points across critics, country, province, grape type - Serena-
-
-
-
-
-7. Bonus: x-reference against climate data -Serena *Completed*
+`6. Bonus: x-reference against climate data -Serena *Completed*
 
 after actviities:
 - clean up charts
